@@ -1,1 +1,1 @@
-Empezamos la solucion del issue 3
+Hallando el borde de la maquina de escribir 
